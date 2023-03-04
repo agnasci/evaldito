@@ -1,7 +1,7 @@
 # Contributing
 
-1. [Fork the repository](https://github.com/eritislami/Evaldito/fork)
-2. Clone your fork: `git clone https://github.com/your-username/Evaldito.git`
+1. [Fork the repository](https://github.com/agnasci/evaldito/fork)
+2. Clone your fork: `git clone https://github.com/your-username/evaldito.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Stage changes `git add .`
 5. Commit your changes: `cz` OR `npm run commit` do not use `git commit`

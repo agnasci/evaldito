@@ -1,7 +1,7 @@
 {
-  "name": "Evaldito",
+  "name": "evaldito",
   "description": "🤖 Discord Music Bot built with discord.js",
-  "repository": "https://github.com/eritislami/Evaldito",
+  "repository": "https://github.com/agnasci/evaldito",
   "logo": "https://i.imgur.com/JFxgbWH.png",
   "keywords": ["discord", "discordjs", "typescript", "music", "bot"]
 }

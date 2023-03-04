@@ -1,12 +1,12 @@
-![Node build](https://github.com/eritislami/Evaldito/actions/workflows/node.yml/badge.svg)
-![Docker build](https://github.com/eritislami/Evaldito/actions/workflows/docker.yml/badge.svg)
+![Node build](https://github.com/agnasci/evaldito/actions/workflows/node.yml/badge.svg)
+![Docker build](https://github.com/agnasci/evaldito/actions/workflows/docker.yml/badge.svg)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 ![logo](https://repository-images.githubusercontent.com/186841818/8aa95700-7730-11e9-84be-e80f28520325)
 
-# 🤖 Evaldito (Discord Music Bot)
+# 🤖 evaldito (Discord Music Bot)
 
-> Evaldito is a Discord Music Bot built with TypeScript, discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
+> evaldito is a Discord Music Bot built with TypeScript, discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
 
 ## Requirements
 
@@ -17,8 +17,8 @@
 ## 🚀 Getting Started
 
 ```sh
-git clone https://github.com/eritislami/Evaldito.git
-cd Evaldito
+git clone https://github.com/agnasci/evaldito.git
+cd evaldito
 npm install
 ```
 
@@ -43,10 +43,10 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 
 ## 🐬 Docker Configuration
 
-For those who would prefer to use our [Docker container](https://hub.docker.com/repository/docker/eritislami/Evaldito), you may provide values from `config.json` as environment variables.
+For those who would prefer to use our [Docker container](https://hub.docker.com/repository/docker/agnasci/evaldito), you may provide values from `config.json` as environment variables.
 
 ```shell
-docker run -e "TOKEN=<discord-token>" eritislami/Evaldito
+docker run -e "TOKEN=<discord-token>" agnasci/evaldito
 ```
 
 ## 📝 Features & Commands
@@ -126,8 +126,8 @@ Currently available locales are:
 
 ## 🤝 Contributing
 
-1. [Fork the repository](https://github.com/eritislami/Evaldito/fork)
-2. Clone your fork: `git clone https://github.com/your-username/Evaldito.git`
+1. [Fork the repository](https://github.com/agnasci/evaldito/fork)
+2. Clone your fork: `git clone https://github.com/your-username/evaldito.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Stage changes `git add .`
 5. Commit your changes: `cz` OR `npm run commit` do not use `git commit`

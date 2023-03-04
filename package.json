@@ -1,13 +1,13 @@
 {
-  "name": "Evaldito",
+  "name": "evaldito",
   "version": "2.6.0",
   "description": "Discord music bot built with discord.js",
   "main": "index.ts",
-  "author": "Erit Islami <eritislami@gmail.com>",
+  "author": "Erit Islami <agnasci@gmail.com>",
   "private": true,
-  "homepage": "https://github.com/eritislami/Evaldito",
-  "repository": "github:eritislami/Evaldito",
-  "bugs": "https://github.com/eritislami/Evaldito/issues",
+  "homepage": "https://github.com/agnasci/evaldito",
+  "repository": "github:agnasci/evaldito",
+  "bugs": "https://github.com/agnasci/evaldito/issues",
   "engines": {
     "node": ">=16.11.0"
   },
