@@ -3,7 +3,7 @@
   "version": "2.6.0",
   "description": "Discord music bot built with discord.js",
   "main": "index.ts",
-  "author": "Erit Islami <agnasci@gmail.com>",
+  "author": "Matheus Aguiar",
   "private": true,
   "homepage": "https://github.com/agnasci/evaldito",
   "repository": "github:agnasci/evaldito",
@@ -29,7 +29,7 @@
     "soundcloud-downloader": "^0.2.3",
     "string-progressbar": "^1.0.4",
     "youtube-sr": "~4.3.0",
-    "ytdl-core": "~4.9.0",
+    "ytdl-core": "^4.11.2",
     "ytdl-core-discord": "^1.3.1"
   },
   "devDependencies": {
