@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  },
+  "name": "evaldito",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^8.45.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "bot-discord",
+    "evaldito",
+    "eldwyr"
+  ],
+  "author": "agnasci",
+  "license": "ISC",
+  "description": "O melhor de todos os bots já criados (pelo menos na cabeça dele)!"
+}
