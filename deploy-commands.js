@@ -22,7 +22,7 @@ for (const file of commandFiles) {
 
 // INSTANCE REST
 
-const rest = new REST({ version: '10' }).setToken(TOKEN);
+const rest = new REST().setToken(TOKEN);
 
 // DEPLOY
 
@@ -41,3 +41,4 @@ const rest = new REST({ version: '10' }).setToken(TOKEN);
 		console.error(error);
 	}
 })();
+
